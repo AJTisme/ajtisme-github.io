@@ -1,52 +1,52 @@
 body {
 
-	background-color: black;
-	font-family: 'Josefin Sans', sans-serif;
-	color: white;
+  background-color: black;
+  font-family: 'Josefin Sans', sans-serif;
+  color: white;
 
 }
 
 
 .container1 {
-	display: block;
-	margin: auto;
-	width: 50%;
+  display: block;
+  margin: auto;
+  width: 50%;
     padding: 10px;
     overflow:hidden;
-	align-items: center;
-	
+  align-items: center;
+  
 }
 
 img {
-	margin:4px;
-	width: 100%;
+  margin:4px;
+  width: 100%;
     height: auto;
 }
 
 
 img:hover {
-	transform: scale(1.1);
-	transition: all 1s;
+  transform: scale(1.1);
+  transition: all 1s;
 
 
 }
 #honpic {
-	
-	display: block;
-	margin: auto;
-	padding: 10px;
-	max-width: 60%;
+  
+  display: block;
+  margin: auto;
+  padding: 10px;
+  max-width: 60%;
     height: auto;
-	position: center;
-	clear: both;
-	pointer-events:none;
+  position: center;
+  clear: both;
+  pointer-events:none;
 }
 
 
 header {
-	display: block;
-	margin: auto;
-	position: center;
+  display: block;
+  margin: auto;
+  position: center;
     width: 50%;
     padding: 10px;
     overflow: hidden;
@@ -54,16 +54,16 @@ header {
 
 
 #wrap  {
-	
-	 display:flex;
-	 margin: auto;
-	 align-items: center;
-	 justify-content: center;
+  
+   display:flex;
+   margin: auto;
+   align-items: center;
+   justify-content: center;
 
 }
 
 hr {
-	display: block;
+  display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
@@ -75,48 +75,48 @@ hr {
 }
 
 .container2  {
-	display: block;
-	margin: auto;
-	position: center;
+  display: block;
+  margin: auto;
+  position: center;
     width: 50%;
     padding: 10px;
     overflow: hidden;
-	
+  
 
 }
 
 span {
 
-	font-size: 1.5em;
+  font-size: 1.5em;
 }
 
 h3 {
 
-	padding:10px;
-	position: center;
-	align-items: center;
-	justify-content: center;
-	display: flex;
+  padding:10px;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 
 }
 
 h2 {
 
-	position: center;
-	align-items: center;
-	justify-content: center;
-	display: flex;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 
 
 }
 
 h1 {
 
-	font-family: 'Indie Flower', cursive;
-	position: center;
-	align-items: center;
-	justify-content: center;
-	display: flex;
+  font-family: 'Indie Flower', cursive;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
 
 * {
